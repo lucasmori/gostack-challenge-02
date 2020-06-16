@@ -19,6 +19,7 @@
 ## :bookmark: About
 
 This project is a part of GoStack Bootcamp by [Rocketseat](https://rocketseat.com.br/).
+
 Our goal was to create an application to store repositories in your portfolio, which allows the creation, listing, updating and removal of the repositories, and also allows the repositories to receive "likes".
 
 <a id="documentation"></a>
