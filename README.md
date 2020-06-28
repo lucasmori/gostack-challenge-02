@@ -2,7 +2,7 @@
 <img alt="Logo" title="#logo" width="1000px" src=".github/logo.png"/>
 <br/>
 <br/>
-<b>GoStack Rocketseat - Challenge 01!</b>
+<b>GoStack Rocketseat - Challenge 02!</b>
 </div>
 
 # :pushpin: Index
@@ -59,7 +59,7 @@ The project was developed using the following technologies:
 1.  Make the clone:
 
 ```shell
-$ git clone https://github.com/lucasmori/gostack-challenge-01.git
+$ git clone https://github.com/lucasmori/gostack-challenge-02.git
 ```
 
 2. Running the application:
